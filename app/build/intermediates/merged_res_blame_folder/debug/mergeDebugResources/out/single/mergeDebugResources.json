@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.herbverse_vendor.app-debug-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.herbverse_vendor.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.herbverse_vendor.app-debug-51:/drawable_logo.xml.flat",
+        "source": "com.example.herbverse_vendor.app-main-53:/drawable/logo.xml"
+    },
+    {
+        "merged": "com.example.herbverse_vendor.app-debug-51:/xml_backup_rules.xml.flat",
+        "source": "com.example.herbverse_vendor.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.herbverse_vendor.app-debug-51:/drawable_profile_placeholder.xml.flat",
+        "source": "com.example.herbverse_vendor.app-main-53:/drawable/profile_placeholder.xml"
+    }
+]
